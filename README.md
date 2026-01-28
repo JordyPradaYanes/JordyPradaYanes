@@ -77,6 +77,12 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 ---
 
+### 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JordyPradaYanes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos de Jordy" />
+</div>
+
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -157,11 +163,15 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 ---
 
+<br />
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JordyPradaYanes&color=blueviolet&style=flat-square" alt="Profile Views" />
-  
-  ### 💻 "El código es poesía en movimiento" 💻
+  <p>Made with ❤️ by <strong>Jordy Prada</strong></p>
+  <p><i>"El código es poesía en movimiento"</i></p>
+</div>
 
+<br />
   <img src="https://raw.githubusercontent.com/JordyPradaYanes/JordyPradaYanes/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
