@@ -77,7 +77,7 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=tokyonight&hide_border=true&langs_count=10&locale=es&card_width=500" alt="Lenguajes Más Usados" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=tokyonight&hide_border=true&langs_count=10&locale=es&card_width=500" alt="Lenguajes Más Usados" width="50%" />
 </div>
 
 ---
