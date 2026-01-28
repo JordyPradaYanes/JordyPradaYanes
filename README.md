@@ -71,11 +71,9 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 ### 📊 Estadísticas de GitHub
 
-### 📊 Estadísticas de GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JordyPradaYanes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Jordy" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=JordyPradaYanes&theme=tokyonight&hide_border=true&locale=es" alt="Racha de GitHub" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordyPradaYanes&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Racha de GitHub" height="165" />
 </div>
 
 <div align="center">
