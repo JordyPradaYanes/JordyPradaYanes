@@ -69,15 +69,15 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordyPrada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jordy's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPrada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JordyPrada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Jordy" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPrada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Lenguajes Más Usados" height="180px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordyPrada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordyPrada&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Racha de GitHub" />
 </div>
 
 ---
