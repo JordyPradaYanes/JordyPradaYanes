@@ -77,21 +77,23 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 ---
 
+<!--
 ### 🏆 Trofeos
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JordyPradaYanes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos de Jordy" />
 </div>
+-->
 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JordyPradaYanes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Jordy" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordyPradaYanes&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Racha de GitHub" height="165" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordyPradaYanes&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Racha de GitHub" height="165" /> -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=tokyonight&hide_border=true&langs_count=10&locale=es&card_width=500" alt="Lenguajes Más Usados" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=tokyonight&hide_border=true&langs_count=10&locale=es&card_width=100%" alt="Lenguajes Más Usados" />
 </div>
 
 ---
@@ -153,7 +155,7 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
   <a href="https://www.linkedin.com/in/jordy-prada-yanes-7b4931198" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jpradayanes@gmail.com">
+  <a href="mailto:jdpraday@ufpso.edu.co">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/JordyPradaYanes">
@@ -167,7 +169,7 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JordyPradaYanes&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <p>Made with ❤️ by <strong>Jordy Prada</strong></p>
+  <p>Made by <strong>Jordy Prada</strong></p>
   <p><i>"El código es poesía en movimiento"</i></p>
 </div>
 
