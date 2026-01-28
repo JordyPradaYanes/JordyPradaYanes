@@ -164,3 +164,19 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
   <img src="https://raw.githubusercontent.com/JordyPradaYanes/JordyPradaYanes/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>📜 Frase del Día</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&isb=true" alt="Quote of the Day">
+</div>
+
+---
+
+### ⚡ Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
