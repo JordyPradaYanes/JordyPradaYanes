@@ -72,12 +72,12 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordyPrada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Jordy" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPrada&theme=tokyonight&hide_border=true&langs_count=10&locale=es&card_width=320" alt="Lenguajes Más Usados" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JordyPradaYanes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Jordy" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=tokyonight&hide_border=true&langs_count=10&locale=es&card_width=320" alt="Lenguajes Más Usados" height="180px"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JordyPrada&theme=tokyonight&hide_border=true&locale=es" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=JordyPradaYanes&theme=tokyonight&hide_border=true&locale=es" alt="Racha de GitHub" />
 </div>
 
 ---
@@ -142,7 +142,7 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
   <a href="mailto:jpradayanes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/JordyPrada">
+  <a href="https://github.com/JordyPradaYanes">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -150,7 +150,7 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JordyPrada&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JordyPradaYanes&color=blueviolet&style=flat-square" alt="Profile Views" />
   
   ### 💻 "El código es poesía en movimiento" 💻
 </div>
