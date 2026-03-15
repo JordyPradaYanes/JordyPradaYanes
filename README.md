@@ -89,7 +89,8 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JordyPradaYanes&theme=dark&locale=es)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=dark&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=dark&locale=es&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 🏆 Proyectos Destacados
