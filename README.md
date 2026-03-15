@@ -177,7 +177,7 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 ### 📫 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jordy-prada-yanes-7b4931198" target="_blank">
+  <a href="https://www.linkedin.com/in/jordy-prada" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jdpraday@ufpso.edu.co">
