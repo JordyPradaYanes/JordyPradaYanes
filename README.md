@@ -135,6 +135,31 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
       </div>
     </td>
   </tr>
+    <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Web Hub - Parciales</h3>
+      <div align="center">
+        <p>
+          <strong>Dashboard interactivo de proyectos académicos</strong>
+        </p>
+        <p>
+          Repositorio centralizado de herramientas y componentes educativos con diseño premium, modo oscuro/claro y totalmente responsivo.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        </p>
+        <a href="https://parciales-des-web.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo" height="25"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <!-- Aquí puedes dejarlo vacío o añadir otro proyecto futuro -->
+    </td>
+  </tr>
+
 </table>
 
 ---
