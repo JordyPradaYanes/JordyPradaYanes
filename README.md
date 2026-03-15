@@ -87,9 +87,14 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 
 ### 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JordyPradaYanes&theme=dark&locale=es)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=dark&locale=es&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JordyPradaYanes&theme=dark&locale=es" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=dark&locale=es&layout=compact" alt="Top Langs" />
+  </a>
+</p>
 
 ---
 
@@ -194,6 +199,7 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 </div>
 
 <br />
+<div align="center">
   <img src="https://raw.githubusercontent.com/JordyPradaYanes/JordyPradaYanes/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
