@@ -215,6 +215,11 @@ Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **M
 ### ⚡ Actividad Reciente
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/7) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
+2. 💪 Opened PR [#7](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/7) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
+3. 🎉 Merged PR [#6](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/6) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
+4. 💪 Opened PR [#6](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/6) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
+5. 🎉 Merged PR [#5](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/5) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
 <!--END_SECTION:activity-->
 
 ---
