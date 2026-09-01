@@ -92,7 +92,7 @@ Desarrollador **Full Stack y Mobile** e **Ingeniero de Sistemas** en formación 
         <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://movi-app-seven.vercel.app/" target="_blank">
+        <a href="https://movi-gray.vercel.app/home" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Live_PWA-success?style=for-the-badge&logo=vercel" alt="Demo Movi" />
         </a>
       </p>
