@@ -1,225 +1,228 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Banner">
+  <img src="./banner.png" width="100%" alt="Banner Jordy Prada Yanes">
   
-  <h1>¡Hola! Soy Jordy Prada 👋</h1>
+  <h1>Jordy Prada Yanes</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+en+Formación;Desarrollador+Full+Stack;Apasionado+por+el+Desarrollo+Móvil;Creando+Soluciones+Innovadoras" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+Developer;Ingeniero+de+Sistemas+en+Formaci%C3%B3n+(10.%C2%B0+Semestre);Competidor+ICPC+2025+%26+2026;Arquitectura+de+Software+%26+Clean+Code" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://jordypradayanes.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-Sitio_Web-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+    </a>
+    <a href="https://jordypradayanes.github.io/Documentos/CV_Jordy_Prada.html" target="_blank">
+      <img src="https://img.shields.io/badge/Curriculum-Ver_CV-7209B7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Web" />
+    </a>
+    <a href="https://linkedin.com/in/jordy-prada" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:jpradayanes@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🚀 Sobre mí
+### Perfil Profesional
 
-Soy un apasionado del desarrollo de software con un enfoque **Full Stack** y **Móvil**. Actualmente, me encuentro en el cuarto año de mi carrera de Ingeniería de Sistemas, perfeccionando mis habilidades a través de proyectos personales desafiantes y el dominio de diversas tecnologías modernas. Me encanta construir soluciones robustas en el backend y experiencias de usuario fluidas en el frontend.
+Desarrollador **Full Stack y Mobile** e **Ingeniero de Sistemas** en formación (10.° semestre en la **Universidad Francisco de Paula Santander Ocaña - UFPSO**).
 
-💡 **Mi filosofía**: Código limpio, arquitectura escalable y aprendizaje continuo.
-
----
-
-### 🎓 Educación
-
-- **Ingeniería de Sistemas** | Universidad Francisco de Paula Santander Ocaña (UFPSO)
-  - _2021 - Presente_
-  - Enfoque en desarrollo de software y arquitecturas modernas.
+- **Especialidad:** Desarrollo de aplicaciones web progresivas (PWA) y móviles, plataformas administrativas y arquitecturas escalables con Angular, React, Java (Spring Boot), Laravel y Firebase.
+- **Algoritmia y Resolución de Problemas:** Participante en las **Maratones Nacionales de Programación ICPC 2025 y 2026**.
+- **Metodología:** Código limpio, arquitecturas desacopladas, micro-animaciones, diseño responsivo y optimización de experiencia de usuario (UX/UI).
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
-
-#### Frontend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-</p>
-
-#### Mobile
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> -->
-</p>
-
-#### Bases de Datos & Cloud
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-</p>
-
-#### Herramientas & Otros
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-<!--
-### 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JordyPradaYanes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos de Jordy" />
-</div>
--->
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JordyPradaYanes&theme=dark&locale=es" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&theme=dark&locale=es&layout=compact" alt="Top Langs" />
-  </a>
-</p>
-
----
-
-### 🏆 Proyectos Destacados
+### Stack Tecnológico
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚌 Movi</h3>
-      <div align="center">
-        <p>
-          <strong>Solución integral para gestión de transporte y rutas</strong>
-        </p>
-        <p>
-          Sistema completo con frontend moderno en Angular, Firebase para backend y seguimiento en tiempo real de rutas y vehículos.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        </p>
-      </div>
+    <td valign="top" width="33%">
+      <h4>Frontend</h4>
+      <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
-    <td width="50%">
-      <h3 align="center">🦁 Zootracker</h3>
-      <div align="center">
-        <p>
-          <strong>Aplicación web para seguimiento de fauna</strong>
-        </p>
-        <p>
-          Aplicación web desarrollada con Angular para el seguimiento y cuidado de animales, integrada con Firebase para gestión en tiempo real.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        </p>
-      </div>
+    <td valign="top" width="33%">
+      <h4>Backend & Mobile</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <h4>Bases de Datos & DevOps</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git_/_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
   </tr>
-    <tr>
-    <td width="50%">
-      <h3 align="center">🎨 Web Hub - Parciales</h3>
-      <div align="center">
-        <p>
-          <strong>Dashboard interactivo de proyectos académicos</strong>
-        </p>
-        <p>
-          Repositorio centralizado de herramientas y componentes educativos con diseño premium, modo oscuro/claro y totalmente responsivo.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </p>
-        <a href="https://parciales-des-web.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo" height="25"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <!-- Aquí puedes dejarlo vacío o añadir otro proyecto futuro -->
-    </td>
-  </tr>
-
 </table>
 
 ---
 
-### 🎯 Actualmente
+### Proyectos Destacados
 
-- 🔭 Trabajando en proyectos de **gestión de transporte** y **aplicaciones móviles**
-- 🌱 Aprendiendo más sobre **arquitecturas cloud** y **microservicios**
-- 👯 Buscando colaborar en proyectos **open source**
-- 💬 Pregúntame sobre **Angular, Spring Boot, Android o Firebase**
-- ⚡ Dato curioso: Me apasiona optimizar código y mejorar la experiencia de usuario
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Movi</h3>
+      <p align="center"><strong>Sistema Inteligente de Transporte Universitario</strong></p>
+      <p>
+        Progressive Web App (PWA) de movilidad con seguimiento de rutas en tiempo real, mapas interactivos vía <strong>Google Maps API</strong>, estimación de paradas y panel de administración completo (CRUD de flota, estudiantes y reporte de incidencias).
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://movi-app-seven.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live_PWA-success?style=for-the-badge&logo=vercel" alt="Demo Movi" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Web Hub</h3>
+      <p align="center"><strong>Dashboard de Proyectos Académicos</strong></p>
+      <p>
+        Plataforma centralizada y catálogo interactivo de utilidades y proyectos educativos con diseño responsivo, modo oscuro/claro, micro-animaciones y despliegue continuo.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://parciales-des-web.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live_Site-success?style=for-the-badge&logo=vercel" alt="Demo Web Hub" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portafolio Profesional</h3>
+      <p align="center"><strong>Sitio Web Personal & CV Interactivo</strong></p>
+      <p>
+        Portafolio web altamente responsivo con secciones interactivas, animaciones suaves, formulario de contacto integrado y soporte para tema claro/oscuro.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://jordypradayanes.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Explorar-blue?style=for-the-badge&logo=github" alt="Demo Portafolio" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ZooTracker</h3>
+      <p align="center"><strong>Gestión y Monitoreo de Fauna</strong></p>
+      <p>
+        Aplicación web para seguimiento, registro de salud y cuidado de animales, integrada con base de datos en la nube y persistencia en tiempo real.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/JordyPradaYanes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Ver_Repo-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Conéctate conmigo
+### Logros y Certificaciones
+
+- **Maratón Nacional de Programación ICPC (2025 y 2026):** Participante destacado en la competencia universitaria de algoritmia y estructuras de datos.
+- **IBM - Cognitive Class:** Inteligencia Artificial y Fundamentos de Datos.
+- **Arquitectura en la Nube:** Diseño y despliegue de sistemas escalables.
+
+---
+
+### Métricas de GitHub
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/JordyPradaYanes">
+      <img src="https://github-readme-stats.vercel.app/api?username=JordyPradaYanes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats de Jordy" height="165" />
+    </a>
+    <a href="https://github.com/JordyPradaYanes">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyPradaYanes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Lenguajes más usados" height="165" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/JordyPradaYanes">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JordyPradaYanes&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+    </a>
+  </p>
+</div>
+
+---
+
+### Gráfico de Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JordyPradaYanes/JordyPradaYanes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JordyPradaYanes/JordyPradaYanes/output/github-contribution-grid-snake.svg">
+    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/JordyPradaYanes/JordyPradaYanes/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### Contacto y Enlaces
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jordy-prada" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jdpraday@ufpso.edu.co">
+  <a href="mailto:jpradayanes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://jordypradayanes.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio_Web-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://github.com/JordyPradaYanes">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JordyPradaYanes&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <p>Made by <strong>Jordy Prada</strong></p>
-  <p><i>"El código es poesía en movimiento"</i></p>
+  <img src="https://komarev.com/ghpvc/?username=JordyPradaYanes&color=38bdf8&style=flat-square&label=Vistas+del+Perfil" alt="Profile Views" />
+  <p>Jordy Prada · <i>El código es poesía en movimiento</i></p>
 </div>
-
-<br />
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JordyPradaYanes/JordyPradaYanes/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📜 Frase del Día</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&isb=true" alt="Quote of the Day">
-</div>
-
----
-
-### ⚡ Actividad Reciente
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/7) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
-2. 💪 Opened PR [#7](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/7) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
-3. 🎉 Merged PR [#6](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/6) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
-4. 💪 Opened PR [#6](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/6) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
-5. 🎉 Merged PR [#5](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada/pull/5) in [JordyPradaYanes/Examen_Cloud_JordyPrada](https://github.com/JordyPradaYanes/Examen_Cloud_JordyPrada)
-<!--END_SECTION:activity-->
-
----
